@@ -2,7 +2,7 @@
 
 | Title | Dataset | Approach | Technologies | 
 |-------|---------|----------|--------------|
-|[Rain in Australia](https://github.com/tlysenko/ML-notebooks/blob/master/Rain_in_Australia_XGboost_with_sklearn_Pipelines.ipynb)| Rain in Australia|Binary classification |XGBoost, Sklearn Pipelines|
+|[Rain in Australia](https://github.com/tlysenko/ML-notebooks/blob/master/Rain_in_Australia_XGboost_with_sklearn_Pipelines.ipynb)| [Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)|Binary classification |XGBoost, Sklearn Pipelines|
 |[Brest cancel classification](https://github.com/tlysenko/ML-notebooks/blob/master/Breast_cancer_classification.ipynb)| [Brest cancer sklearn dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)| Comparing One layer NN and  Catboost  | Tensorflow, Catboost, SHAP | 
 |[Antibiotics resistance](https://github.com/tlysenko/ML-notebooks/blob/master/Antibioitic_resistance_kaggle.ipynb)|[Kaggle dataset](https://www.kaggle.com/drscarlat/dzd-data)|Classifiying DNA sequencing using kmers and NLP|Tensorflow|
 |[Breakfast at the Frat time series prediction](https://github.com/tlysenko/ML-notebooks/blob/master/Breakfast_at_the_Frat_time_series_prediction.ipynb)| [Breakfast at the Frat](https://www.dunnhumby.com/careers/engineering/sourcefiles) | Time Series Analysis | fbprophet|
