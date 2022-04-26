@@ -1,6 +1,6 @@
 # ML-notebooks
 
-| Title | Dataset | Approach | Technologies | 
+| Notebook link | Dataset | Approach | Technologies | 
 |-------|---------|----------|--------------|
 |[Rain in Australia](https://github.com/tlysenko/ML-notebooks/blob/master/Rain_in_Australia_XGboost_with_sklearn_Pipelines.ipynb)| [Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)|Binary classification |XGBoost, Sklearn Pipelines|
 |[Brest cancel classification](https://github.com/tlysenko/ML-notebooks/blob/master/Breast_cancer_classification.ipynb)| [Brest cancer sklearn dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)| Comparing One layer NN and  Catboost  | Tensorflow, Catboost, SHAP | 
